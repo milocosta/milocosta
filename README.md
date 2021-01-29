@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://raw.githubusercontent.com/milocosta/milocosta/main/miloctocat1.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/milocosta/milocosta/main/miloctocat2.png" width="300"/>
 </p>
 
 <p align='center'>
