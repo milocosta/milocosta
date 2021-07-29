@@ -7,7 +7,9 @@
     <a href="https://steamcommunity.com/id/milocosta/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/milocosta/milocosta/main/steam.png"/>
 </div>
 
-<div align='center' style="display: inline_block">
+<br>
+
+<div align='center'>
     <a href="https://github.com/milocosta">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milocosta&theme=react&show_icons=true&&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milocosta&theme=react&layout=compact&langs_count=5"/>
