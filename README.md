@@ -7,10 +7,10 @@
     <a href="https://steamcommunity.com/id/milocosta/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/milocosta/milocosta/main/steam.png"/>
 </div>
 
-<div>
+<div float='left'>
     <a href="https://github.com/milocosta">
-    | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milocosta&theme=react&show_icons=true&&include_all_commits=true&count_private=true"/> | 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milocosta&theme=react&layout=compact&langs_count=5"/> |
+    <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=milocosta&theme=react&show_icons=true&&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=milocosta&theme=react&layout=compact&langs_count=5"/>
 </div>
 
 <!--p align='center'>
