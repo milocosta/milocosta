@@ -1,9 +1,13 @@
 <div align='center'>
     <img src="https://raw.githubusercontent.com/milocosta/milocosta/main/miloctocat2.png" width="300"/>
+</div>
+
+<div align='center'>
     <a href="https://www.linkedin.com/in/camilo-costa-072a1336/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/milocosta/milocosta/main/in.png"/>
     <a href="https://steamcommunity.com/id/milocosta/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/milocosta/milocosta/main/steam.png"/>
 </div>
-<div align='center'>
+
+<div>
     <a href="https://github.com/milocosta">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milocosta&theme=react&show_icons=true&&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milocosta&theme=react&layout=compact&langs_count=5"/>
