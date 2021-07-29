@@ -10,11 +10,11 @@
 </p-->
 
 <br><br><br>
+<div>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=milocosta&theme=react&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=milocosta&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milocosta&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milocosta&theme=react&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milocosta&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/-->
 
 
