@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/camilo-costa-072a1336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo-costa-072a1336" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/milocosta/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/milocosta/milocosta/main/steam.png"/>
 <a href="https://kaggle.com/camilocosta10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="camilocosta10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/milocosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="milocosta" height="30" width="40" /></a>
 </p>
